@@ -1,3 +1,5 @@
+package com.boj.solved.dp.p2342;
+
 import java.util.*;
 import java.io.*;
 
