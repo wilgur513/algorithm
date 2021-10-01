@@ -1,4 +1,4 @@
-package com.boj.unsolved.binary_search.p1300;
+package com.boj.unsolved.binarysearch.p1300;
 
 import java.io.*;
 import java.util.*;

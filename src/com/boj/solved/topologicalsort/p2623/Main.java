@@ -1,4 +1,4 @@
-package com.boj.solved.topological.sort.p2623;
+package com.boj.solved.topologicalsort.p2623;
 
 import java.io.*;
 import java.util.*;
